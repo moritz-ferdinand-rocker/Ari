@@ -1,0 +1,12 @@
+
+4
+java:S1451"&Add or update the header of this file.
+F
+java:S2039"+Explicitly declare the visibility for "in".(‰È›©ýÿÿÿÿ
+G
+java:S2039",Explicitly declare the visibility for "out".(‰È›©ýÿÿÿÿ
+<
+java:S1659"!Declare "out" on a separate line.(‰È›©ýÿÿÿÿ
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÖØ^8°Á©«/
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ç§ƒë

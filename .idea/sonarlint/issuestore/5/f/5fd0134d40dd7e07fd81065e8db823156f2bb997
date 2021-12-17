@@ -1,0 +1,8 @@
+
+a
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8±³Î¢«/
+4
+java:S1451"&Add or update the header of this file.
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(»³‚Şûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÃÁËúÿÿÿÿ

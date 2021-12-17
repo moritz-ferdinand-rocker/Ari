@@ -1,0 +1,13 @@
+
+s	java:S118"^Rename this abstract class name to match the regular expression '^Abstract[A-Z][a-zA-Z0-9]*$'.(√∆ﬁç
+4
+java:S1451"&Add or update the header of this file.
+J
+java:S1610"4Convert the abstract class "Plan" into an interface.(√∆ﬁç
+?
+java:S1694")Convert this "Plan" class to an interface(√∆ﬁç
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(√∆ﬁç
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘÷ÿ^8∫¡©Å´/
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(√∆ﬁç
